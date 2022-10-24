@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CxEV6HyG8lDAM6eAKEa/chWIqAvbWkd6ERe1J7uWvyYHIgSsBCNluudsTySztX6Qbxy5N+e9+6aP2ufKv3hW7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nduduzo.bukhosini\\source\\repos\\Hierarchy Menu\\ConsoleApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nduduzo.bukhosini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

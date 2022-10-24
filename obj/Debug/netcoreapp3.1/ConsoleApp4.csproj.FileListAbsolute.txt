@@ -24,3 +24,16 @@ C:\Users\nduduzo.bukhosini\source\repos\Hierarchy Menu\obj\Debug\netcoreapp3.1\C
 C:\Users\nduduzo.bukhosini\source\repos\Hierarchy Menu\obj\Debug\netcoreapp3.1\ConsoleApp4.dll
 C:\Users\nduduzo.bukhosini\source\repos\Hierarchy Menu\obj\Debug\netcoreapp3.1\ConsoleApp4.pdb
 C:\Users\nduduzo.bukhosini\source\repos\Hierarchy Menu\obj\Debug\netcoreapp3.1\ConsoleApp4.genruntimeconfig.cache
+C:\Git\Derivco\Derivco-sport\bin\Debug\netcoreapp3.1\ConsoleApp4.exe
+C:\Git\Derivco\Derivco-sport\bin\Debug\netcoreapp3.1\ConsoleApp4.deps.json
+C:\Git\Derivco\Derivco-sport\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.json
+C:\Git\Derivco\Derivco-sport\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.dev.json
+C:\Git\Derivco\Derivco-sport\bin\Debug\netcoreapp3.1\ConsoleApp4.dll
+C:\Git\Derivco\Derivco-sport\bin\Debug\netcoreapp3.1\ConsoleApp4.pdb
+C:\Git\Derivco\Derivco-sport\obj\Debug\netcoreapp3.1\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Git\Derivco\Derivco-sport\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Git\Derivco\Derivco-sport\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfo.cs
+C:\Git\Derivco\Derivco-sport\obj\Debug\netcoreapp3.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Git\Derivco\Derivco-sport\obj\Debug\netcoreapp3.1\ConsoleApp4.dll
+C:\Git\Derivco\Derivco-sport\obj\Debug\netcoreapp3.1\ConsoleApp4.pdb
+C:\Git\Derivco\Derivco-sport\obj\Debug\netcoreapp3.1\ConsoleApp4.genruntimeconfig.cache

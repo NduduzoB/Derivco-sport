@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nduduzo.bukhosini\\source\\repos\\Hierarchy Menu\\ConsoleApp4.csproj": {}
+    "C:\\Git\\Derivco\\Derivco-sport\\ConsoleApp4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nduduzo.bukhosini\\source\\repos\\Hierarchy Menu\\ConsoleApp4.csproj": {
+    "C:\\Git\\Derivco\\Derivco-sport\\ConsoleApp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nduduzo.bukhosini\\source\\repos\\Hierarchy Menu\\ConsoleApp4.csproj",
+        "projectUniqueName": "C:\\Git\\Derivco\\Derivco-sport\\ConsoleApp4.csproj",
         "projectName": "ConsoleApp4",
-        "projectPath": "C:\\Users\\nduduzo.bukhosini\\source\\repos\\Hierarchy Menu\\ConsoleApp4.csproj",
+        "projectPath": "C:\\Git\\Derivco\\Derivco-sport\\ConsoleApp4.csproj",
         "packagesPath": "C:\\Users\\nduduzo.bukhosini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nduduzo.bukhosini\\source\\repos\\Hierarchy Menu\\obj\\",
+        "outputPath": "C:\\Git\\Derivco\\Derivco-sport\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

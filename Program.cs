@@ -9,104 +9,104 @@ internal class Program
         var menu = new Menu()
         {
             MenuItems = new List<MenuItem>
-{
-// Adding/creating Menu Items to be displayed on the Menu Hierarchy Level "0"
-new MenuItem
-{
-Name = "Administration",
-SubItems = new List<MenuItem>
-{
-    // Adding/creating Submenu Items to be displayed on the Menu Hierarchy Level "1"
-new MenuItem
-{
-Name = "UserAdmin",
-SubItems = new List<MenuItem>
-{
-        // Adding/creating Submenu Items to be displayed on the Menu Hierarchy Level "2"
-new MenuItem
-{
-Name = "CreateUser"
-},
-new MenuItem
-{
-Name = "EditUser"
-}
-}
-},
-new MenuItem
-{
-Name = "ProductAdmin",
-SubItems = new List<MenuItem>
-{
-new MenuItem
-{
-Name = "AllProducts",
-SubItems = new List<MenuItem>
-{
-new MenuItem
-{
-Name = "MyProduct"
-}
-}
-},
-new MenuItem
-{
-Name = "CreateProduct"
-}
-}
-},
-new MenuItem
-{
-Name = "OrderAdmin",
-SubItems = new List<MenuItem>
-{
-new MenuItem
-{
-Name = "OderReport",
-SubItems = new List<MenuItem>
-{
-new MenuItem
-{
-Name = "AuditReport",
-SubItems = new List<MenuItem>
-{
-new MenuItem
-{
-Name = "UpdatedOrders",
-},
-new MenuItem
-{
-Name = "CreatedOrders",
-}
-}
-}
-}
-},
-new MenuItem
-{
-Name = "CreateOrders"
-}
-}
-}
-}
-},
-// Adding/creating Menu Items to be displayed on the Menu Hierarchy Level "0"
-new MenuItem
-{
-Name = "Reports",
-SubItems = new List<MenuItem>
-{
-new MenuItem
-{
-Name = "WintecReports"
-},
-new MenuItem
-{
-Name = "MicrosoftReports"
-}
-}
-}
-}
+            {
+                // ADMINISTRATION Menu Item to be displayed on the Menu Hierarchy Level "0"
+                new MenuItem
+                {
+                Name = "Administration",
+                SubItems = new List<MenuItem>
+                {
+                            // Adding/creating Submenu Items to be displayed on the Menu Hierarchy Level "1"
+                        new MenuItem
+                        {
+                            Name = "UserAdmin",
+                            SubItems = new List<MenuItem>
+                            {
+                                    // Adding/creating Submenu Items to be displayed on the Menu Hierarchy Level "2"
+                                new MenuItem
+                                {
+                                    Name = "CreateUser"
+                                },
+                                new MenuItem
+                                {
+                                    Name = "EditUser"
+                                }
+                            }
+                        },
+                        new MenuItem
+                        {
+                            Name = "ProductAdmin",
+                            SubItems = new List<MenuItem>
+                            {
+                                new MenuItem
+                                {
+                                    Name = "AllProducts",
+                                    SubItems = new List<MenuItem>
+                                    {
+                                        new MenuItem
+                                        {
+                                            Name = "MyProduct"
+                                        }
+                                    }
+                                },
+                                new MenuItem
+                                {
+                                Name = "CreateProduct"
+                                }
+                            }
+                        },
+                        new MenuItem
+                        {
+                            Name = "OrderAdmin",
+                            SubItems = new List<MenuItem>
+                            {
+                                new MenuItem
+                                {
+                                    Name = "OderReport",
+                                    SubItems = new List<MenuItem>
+                                    {
+                                        new MenuItem
+                                        {
+                                            Name = "AuditReport",
+                                            SubItems = new List<MenuItem>
+                                            {
+                                                new MenuItem
+                                                {
+                                                    Name = "UpdatedOrders",
+                                                },
+                                                new MenuItem
+                                                {
+                                                    Name = "CreatedOrders",
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                new MenuItem
+                                {
+                                    Name = "CreateOrders"
+                                }
+                            }
+                        }
+                    }
+                },
+                // REPORT Menu Items to be displayed on the Menu Hierarchy Level "0"
+                new MenuItem
+                {
+                    Name = "Reports",
+                    SubItems = new List<MenuItem>
+                    {
+                        new MenuItem
+                        {
+                            Name = "WintecReports"
+                        },
+                        new MenuItem
+                        {
+                            Name = "MicrosoftReports"
+                        }
+                    }
+                }
+            }
         };
         //display items
         menu.Display();
@@ -117,7 +117,7 @@ class MenuItem
 {
     //menu Item properties/List
     public string Name { get; set; }
-   
+
     public List<MenuItem> SubItems { get; set; }
     //Add Tab spaces for every N level in Menu
     public void Display(int level)
